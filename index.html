@@ -17,7 +17,7 @@ title: Home
 
       {% assign author = site.authors[post.author] %}
       {% if author %}
-      <span> oleh {{ author.name }}</span>
+      <span> oleh <a href="/authors/{{ post.author }}.html">{{ author.name }}</a></span>
       {% endif %}
     </span>
 
