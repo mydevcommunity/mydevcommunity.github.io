@@ -4,29 +4,6 @@ title: Penulis
 ---
 
 <style>
-.pic {
-	float: left;
-	width: 120px;
-	padding-right: 0 !important;
-	padding-top: 20px !important;
-}
-
-.pic img {
-    border-radius: 50% !important;
-    -webkit-border-radius: 50% !important;
-    -moz-border-radius: 50% !important;
-    width: 100px;
-    height: 100px;
-
-}
-
-.bio {
-	float: left;
-	width: 558px;
-	padding-left: 0 !important;
-	text-align: justify;
-}
-
 .clear {
 	clear: both;
 	margin-bottom: 30px;
@@ -41,16 +18,6 @@ title: Penulis
 
 	<div class="clear"></div>
 
-	<div class="pic">
-		<a name="{{ key }}" />
-		<img  src="{{ author.pic }}" />
-	</div>
-	<div class="bio">
-		<p>
-			{{ author.full_bio_ms }}
-		<p>
-		<p style="font-style:italic">
-			{{ author.full_bio_en }}
-		</p>
-	</div>
+        {% include author.html %}
+
 {% endfor %}

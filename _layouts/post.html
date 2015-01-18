@@ -16,14 +16,7 @@ layout: default
 {% if author %}
 <div class="author">
   <div style="margin-bottom:10px; font-style:italic">Mengenai penulis</div>
-  <img class="gravatar" src="http://www.gravatar.com/avatar/{{ author.gravatar }}" />
-  <div class="detail">
-    <div class="name">{{ author.name }}</div>
-    <div class="bio">
-      {{ author.short_bio }}
-      <a href="{{ site.baseurl }}/authors.html#{{page.author}}">(lagi)</a>
-    </div>
-  </div>
+  {% include author.html %}
 </div>
 {% endif %}
 
