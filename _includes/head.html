@@ -5,6 +5,11 @@
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <meta property="og:type" content="article"/>
+  <meta property="og:title" content="{{ page.title }}"/>
+  <meta property="og:description" content="{{ page.summary }}"/>
+  <meta property="og:url" content="http://www.mydev.my{{ page.url }}" />
+  <meta property="og:image" content="/public/images/mydev.jpg"/>
 
   <title>
     {% if page.title == "Home" %}

@@ -2,6 +2,7 @@
 layout: post
 title: GitHub Sebagai Hos Laman Web
 author: ikhwanhayat
+summary: Github adalah satu servis di mana anda boleh meletakkan kod sumber perisian anda dan boleh menjemput pengaturcara lain untuk berkolaborasi membangunkan perisian tersebut. Namun disamping itu, GitHub juga menyediakan servis di mana anda boleh meletakkan laman web anda di situ. Perkhidmatan ini dinamakan GitHub Pages dan disediakan secara percuma
 ---
 
 [GitHub](https://github.com) adalah satu servis di mana anda boleh meletakkan kod sumber perisian anda dan boleh menjemput pengaturcara lain untuk berkolaborasi membangunkan perisian tersebut. Namun disamping itu, GitHub juga menyediakan servis di mana anda boleh meletakkan laman web anda di situ. Perkhidmatan ini dinamakan [GitHub Pages](https://pages.github.com) dan disediakan secara percuma!
