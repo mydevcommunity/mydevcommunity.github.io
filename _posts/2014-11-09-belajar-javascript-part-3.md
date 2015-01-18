@@ -35,9 +35,11 @@ Manakala `app.js` adalah seperti berikut:-
     var keyword_elm = document.getElementById('keyword');
 }());
 ```
-!!! info "Nota" "info-sign"
-    Saya akan menggunakan *suffix* `_elm` bagi setiap *variable* dalam tutorial ini
-    bagi menunjukkan yang ia adalah *DOM element*.
+<div class="admonition-info">
+    Saya akan menggunakan <i>suffix</i> <code>_elm</code> bagi setiap <i>variable</i> dalam tutorial ini
+    bagi menunjukkan yang ia adalah <i>DOM element</i>.
+</div>
+<div>&nbsp;</div>
 
 Sebelum itu mari kita lihat dulu perkara-perkara yang perlu kita lakukan untuk membina
 fungsi *auto complete* ini:-
@@ -64,9 +66,11 @@ berikut:-
 }());
 ```
 
-!!! warning "Nota" "exclamation-sign"
-    Method `.addEventListener()` tidak disokong oleh IE7 dan IE6. Kebanyakkan contoh dalam
+<div class="admonition-warning">
+    Method <code>.addEventListener()</code> tidak disokong oleh IE7 dan IE6. Kebanyakkan contoh dalam
     tutorial ini menganggap anda menggunakan browser moden yang terkini.
+</div>
+<div>&nbsp;</div>
 
 Setiap *event handler function* akan di*pass* satu *argument* berbentuk *event object*
 yang mengandungi maklumat terperinci berkaitan *event* yang dijana oleh browser.
