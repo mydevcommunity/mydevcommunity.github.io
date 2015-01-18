@@ -1,0 +1,71 @@
+/*
+ * Author
+ */
+
+.author {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: #717171;
+  background-color: #f9f9f9;
+}
+
+.author:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.author .gravatar {
+	float: left;
+}
+
+.author .detail {
+	margin-left: 90px;
+}
+
+.author .name {
+	font-weight: bold;
+}
+
+.author .bio {
+	line-height: 1rem;
+	font-size: 90%;
+}
+
+/*
+ * TOC
+ */
+
+#toc_toggle {
+  float: right;
+  font-size: 90%;
+  font-style: italic;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+#toc {
+  display: none;
+  background: #f9f9f9;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.clickable-header {
+  cursor: pointer;
+}
+
+.clickable-header:hover {
+  text-decoration: underline;
+}
+
+.top-level-header {
+  display: inline;
+}
+
+.back-to-top {
+  margin: 12px 0;
+  cursor: pointer;
+  float: right;
+  color: #aaa;
+}

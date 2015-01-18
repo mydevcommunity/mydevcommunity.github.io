@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+{% include toc.html %}
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
+
+{% assign author = site.authors[page.author] %}
+{% if author %}
+<div class="author">
+  <div style="margin-bottom:10px; font-style:italic">Mengenai penulis</div>
+  <img class="gravatar" src="http://www.gravatar.com/avatar/{{ author.gravatar }}" />
+  <div class="detail">
+    <div class="name">{{ author.name }}</div>
+    <div class="bio">
+      {{ author.short_bio }}
+      <a href="{{ site.baseurl }}/authors.html#{{page.author}}">(lagi)</a>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<div class="related">
+  <h2>Artikel Berkaitan</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

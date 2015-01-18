@@ -1,0 +1,35 @@
+# Dependencies
+markdown:             redcarpet
+redcarpet:
+    extensions:       [with_toc_data]
+highlighter:          pygments
+#highlighter:          rouge
+
+# Permalinks
+permalink:            :title.html
+relative_permalinks:  true
+
+# Setup
+title:              MyDev
+tagline:            'Laman Kolaborasi Komuniti MyDev'
+description:        'Suatu projek untuk memperkaya bahan berkenaan pembangunan perisian dan web dalam Bahasa Melayu.'
+url:                http://www.mydev.my
+baseurl:            ''
+paginate:           5
+excerpt_separator:  '<!--more-->'
+
+authors:
+  kamalmustafa:
+    name:           Kamal Mustafa
+    short_bio:      Seorang web developer dengan lebih 10 tahun pengalaman dalam bidang pembangunan aplikasi web (PHP/Python) dan IT secara umum.
+    full_bio_ms:    '<a name="Kamal Mustafa" href="http://my.linkedin.com/in/mk4ml" style="font-weight:bold;">Kamal Mustafa</a> adalah Web developer dengan lebih 10 tahun pengalaman dalam bidang pembangunan aplikasi web (PHP/Python) dan IT secara umum. Bersedia untuk berkongsi ilmu berkaitan IT dan pengaturcaraan melalui penulisan, bengkel, seminar atau <i>personal coaching</i>. Aktif menulis di blog peribadi <a href="http://k4ml.blogspot.com/">Tadika Hidup</a> dan Twitter <a href="http://twitter.com/k4ml">@k4ml</a>.'
+    full_bio_en:    '<a href="http://my.linkedin.com/in/mk4ml">Kamal Mustafa</a> is a Web Developer with more than 10 years experience in web application development (PHP/Python) and IT in general. Interested in sharing knowledge about IT and programming through writing, workshop, seminar or personal coaching. Actively sharing his thought at personal blog <a href="http://k4ml.blogspot.com/">Tadika Hidup</a> and Twitter <a href="http://twitter.com/k4ml">@k4ml</a>.'
+    gravatar:       dab3052b18c86b0884341d9c2c67a4f3
+    pic:            http://m.c.lnkd.licdn.com/mpr/pub/image-Xi3rdNhL21LXnFhIZ9ai-2TuhAQVtL47Xi3e-Ut6hszrbxGYXi3eI8yLh7vHUjxRwIF7/mohd-kamal-mustafa.jpg
+  ikhwanhayat:
+    name:           Ikhwan Hayat
+    short_bio:      Telah membina perisian secara professional sejak 2004. Kebanyakan masa dia bergelumang dalam platform .NET. Namun kadangkala tersesat pergi ke dunia PHP, Python, Ruby, Java, dan bahasa-bahasa pengaturcaraan lain.
+    full_bio_ms:    '<a name="Ikhwan Hayat" href="http://www.ikhwanhayat.net" style="font-weight:bold;">Ikhwan Hayat</a> telah membina perisian secara professional sejak 2004. Kebanyakan masa dia bergelumang dalam platform .NET. Namun kadangkala tersesat pergi ke dunia PHP, Python, Ruby, Java, dan bahasa-bahasa pengaturcaraan lain. Sekarang berkerja sebagai pengaturcara secara <i>freelance</i> sepenuh masa.'
+    full_bio_en:    '<a href="http://www.ikhwanhayat.net">Ikhwan Hayat</a> has been developing softwares professionally since 2004. Main area of expertise is .NET, but often found getting lost in the world of PHP, Python, Ruby, Java, or some esoteric programming language. Available as a full-time freelance developer.'
+    gravatar:       ffed0be2a9908059be3df617338579af
+    pic:            https://www.linkedin.com/mpr/pub/image-1DO7sqVdaGYQIGHO5I5hUW5IQjdWz7sri-OC8gPmQLKqcs_Z1DOC2_bdQ9CdcIWX7rwU/ikhwan-hayat.jpg
