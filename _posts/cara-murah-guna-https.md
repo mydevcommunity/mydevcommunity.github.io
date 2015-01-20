@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cara Murah Guna SSL (HTTPS) Untuk Website Anda
+title: Cara Murah Guna SSL (HTTPS) Untuk Laman Web Anda
 author: kamalmustafa
 date: 2015-01-20
 ---
