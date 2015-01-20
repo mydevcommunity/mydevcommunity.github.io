@@ -37,7 +37,7 @@
 	float: left;
 	width: 120px;
 	padding-right: 0 !important;
-	padding-top: 20px !important;
+	padding-top: 10px !important;
 }
 
 .pic img {
@@ -50,8 +50,7 @@
 }
 
 .bio {
-	float: left;
-	width: 558px;
+  margin-left: 125px;
 	padding-left: 0 !important;
 	text-align: justify;
 }

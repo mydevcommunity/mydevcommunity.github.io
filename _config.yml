@@ -18,6 +18,9 @@ baseurl:            ''
 paginate:           5
 excerpt_separator:  '<!--more-->'
 
+analytics:
+    ga:             'UA-41580964-1'
+
 authors:
   kamalmustafa:
     name:           Kamal Mustafa
