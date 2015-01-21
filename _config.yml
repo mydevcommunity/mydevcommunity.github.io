@@ -20,6 +20,7 @@ excerpt_separator:  '<!--more-->'
 
 analytics:
     ga:             'UA-41580964-1'
+disqus:             mydevcommunity
 
 authors:
   kamalmustafa:
