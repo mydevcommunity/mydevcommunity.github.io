@@ -36,14 +36,14 @@
 .pic {
 	float: left;
 	width: 120px;
-	padding-right: 0 !important;
-	padding-top: 10px !important;
+	padding-right: 0;
+	padding-top: 10px;
 }
 
 .pic img {
-    border-radius: 50% !important;
-    -webkit-border-radius: 50% !important;
-    -moz-border-radius: 50% !important;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
     width: 100px;
     height: 100px;
 
@@ -51,7 +51,7 @@
 
 .bio {
   margin-left: 125px;
-	padding-left: 0 !important;
+	padding-left: 0;
 	text-align: justify;
 }
 
