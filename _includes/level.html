@@ -1,0 +1,12 @@
+{% if page.level %}
+<span>
+&middot; Aras
+{% if page.level == 1 %}
+	Asas
+{% else if page.level == 2 %}
+	Pertengahan
+{% else if page.level == 3 %}
+	Lanjutan
+{% endif %}
+</span>
+{% endif %}
