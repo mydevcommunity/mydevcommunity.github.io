@@ -4,6 +4,7 @@ title: Memahami Session dalam Aplikasi Web
 date: 2014-09-13
 author: kamalmustafa
 permalink: /memahami-session-dalam-aplikasi-web.html
+level: 2
 ---
 
 _Session_ dalam aplikasi web adalah untuk mengatasi masalah yang berkaitan dengan sifat _stateless_ dalam protokol HTTP. Contohnya apabila kita melayari satu laman web, dan membuka laman utama dan kemudian laman yang kedua, server tidak akan dapat mengenalpasti orang yang mengakses laman kedua adalah orang yang sama mengakses laman pertama tadi. Ini menyebabkan masalah apabila kita ingin membangunkan aplikasi di mana sebahagian daripada laman kita adalah untuk pengguna tertentu sahaja.

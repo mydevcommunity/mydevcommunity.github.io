@@ -3,6 +3,7 @@ layout: post
 title: Jargon Pengaturcaraan
 date: 2012-12-28 10:14
 permalink: /jargon-pengaturcaraan.html
+level: 1
 ---
 
 **Jargon** adalah perkataan atau frasa istimewa yang sukar difahami. Dalam bidang pembangunan perisian, seperti bidang profesional lain, seringkali terdapat perkataan-perkataan sukar ini. Artikel ini bertujuan untuk mengumpulkan jargon tersebut berserta dengan penerangan ringkas mengenainya sebagai rujukan mudah untuk semua.

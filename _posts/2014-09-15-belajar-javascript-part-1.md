@@ -4,6 +4,7 @@ title: 'Belajar Javascript: Bhg 1'
 date: 2014-09-15
 author: kamalmustafa
 permalink: /belajar-javascript-bhg-1.html
+level: 1
 ---
 
 Memetik kata-kata [Douglas Crockford][1], JavaScript adalah bahasa

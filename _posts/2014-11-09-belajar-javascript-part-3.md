@@ -4,6 +4,7 @@ title: 'Belajar Javascript: Bhg 3'
 date: 2014-11-09
 author: kamalmustafa
 permalink: /belajar-javascript-bhg-3.html
+level: 1
 ---
 
 Alhamdulillah, kita dapat bertemu lagi dalam bahagian ke-3, siri belajar bahasa

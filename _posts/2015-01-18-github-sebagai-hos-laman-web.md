@@ -2,6 +2,7 @@
 layout: post
 title: GitHub Sebagai Hos Laman Web
 author: ikhwanhayat
+level: 2
 summary: Github adalah satu servis di mana anda boleh meletakkan kod sumber perisian anda dan boleh menjemput pengaturcara lain untuk berkolaborasi membangunkan perisian tersebut. Namun disamping itu, GitHub juga menyediakan servis di mana anda boleh meletakkan laman web anda di situ. Perkhidmatan ini dinamakan GitHub Pages dan disediakan secara percuma
 ---
 
@@ -15,7 +16,7 @@ Untuk menggunakan GitHub Pages, anda mestilah membuat satu repositori yang dinam
 
 Panduan langkah demi langkah memulakan GitHub Pages boleh anda dapati di [halaman utama GitHub Pages](https://pages.github.com/). Sebenarnya ada dua cara penggunaan GitHub Pages, iaitu sama ada laman web untuk _user/organization_ atau untuk _project_. Dokumentasi penuh anda boleh baca di [laman bantuan GitHub Pages](https://help.github.com/categories/github-pages-basics/).
 
-Untuk lebih jelas, mari kita ambil satu contoh. Laman web MyDev ini sendiri sebenarnya dihoskan oleh GitHub Pages. Username yang kami gunakan ialah "mydevcommunity" dan profil GitHub kami boleh dilihat di [https://github.com/mydevcommunity](https://github.com/mydevcommunity). Kandungan laman web ini kami letakkan di repositori [mydevcommunity.github.io](https://github.com/mydevcommunity/mydevcommunity.github.io). Ini membolehkan ia dilayari di [http://mydevcommunity.github.io](http://mydevcommunity.github.io). 
+Untuk lebih jelas, mari kita ambil satu contoh. Laman web MyDev ini sendiri sebenarnya dihoskan oleh GitHub Pages. Username yang kami gunakan ialah "mydevcommunity" dan profil GitHub kami boleh dilihat di [https://github.com/mydevcommunity](https://github.com/mydevcommunity). Kandungan laman web ini kami letakkan di repositori [mydevcommunity.github.io](https://github.com/mydevcommunity/mydevcommunity.github.io). Ini membolehkan ia dilayari di [http://mydevcommunity.github.io](http://mydevcommunity.github.io).
 
 Domain "www.mydev.my" sebenarnya dihalakan ke domain "mydevcommunity.github.io". Cara untuk menggunakan domain anda sendiri bersama GitHub Pages ada di [sini](https://help.github.com/articles/about-custom-domains-for-github-pages-sites/).
 

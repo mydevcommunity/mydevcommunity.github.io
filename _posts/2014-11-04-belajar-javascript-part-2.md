@@ -4,6 +4,7 @@ title: 'Belajar Javascript: Bhg 2'
 date: 2014-11-04
 author: kamalmustafa
 permalink: /belajar-javascript-bhg-2.html
+level: 1
 ---
 
 Sebelum ini kita telah menulis kod JavaScript asas seperti berikut:-

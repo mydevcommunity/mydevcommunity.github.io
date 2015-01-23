@@ -5,6 +5,7 @@ date: 2013-03-22
 author: ikhwanhayat
 permalink: /memahami-dependency-injection.html
 include_toc: true
+level: 2
 ---
 
 __Dependency Injection__ adalah suatu teknik rekabentuk perisian untuk menjadikannya lebih _modular_ dan _flexible_. Ia kadangkala juga disebut sebagai __Dependency Inversion__ atau __Inversion of Control (IoC)__. Maksud sebenar setiap satu frasa sedikit berbeza, namun untuk permulaan bolehlah dianggap semuanya membawa maksud yang hampir serupa.

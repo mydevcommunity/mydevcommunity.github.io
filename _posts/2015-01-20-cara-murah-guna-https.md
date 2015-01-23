@@ -3,6 +3,7 @@ layout: post
 title: Cara Murah Guna SSL (HTTPS) Untuk Laman Web Anda
 author: kamalmustafa
 date: 2015-01-20
+level: 2
 summary: >
             Penggunaan SSL (HTTPS) adalah penting tapi memerlukan penggunaan dedicated IP
             bagi setiap website. Bagaimana SNI membantu menyelesaikan masalah ini ?
