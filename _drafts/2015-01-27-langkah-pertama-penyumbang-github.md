@@ -60,3 +60,13 @@ Untuk memastikan anda mendapat *changes* yang betul, jalankan command `git diff`
 Bandingkan dengan *changes* yang anda lihat di https://github.com/laravel/laravel/pull/2821/files:-
 
 <a href="http://i.imgur.com/P6BqGKu.png"><img src="http://i.imgur.com/P6BqGKul.png"></img></a>
+
+<div class="admonition-warning">
+    Output pada <code>git diff master</code> bagaimanapun turut menunjukkan perubahan pada banyak
+    fail lain juga, tidak hanya pada fail <code>public/.htaccess</code> seperti dalam gambar di atas.
+    Jika anda ada idea kenapa berlaku demikian, mohon kongsikan dalam ruangan komen di bawah.
+</div>
+<div>&nbsp;</div>
+
+Sekarang anda boleh mula menguji *pull request* tersebut dan seterusnya berkongsi hasil yang anda dapat
+dalam ruangan [diskusi](https://github.com/laravel/laravel/pull/2821) *pull request* berkenaan.
