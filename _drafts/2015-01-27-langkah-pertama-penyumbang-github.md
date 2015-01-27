@@ -14,6 +14,8 @@ Ramai developer sekarang sudah mula menggunakan Github untuk menyimpan code
 yang mereka hasilkan, ataupun mendapatkan code daripada developer lain. Namun fungsi
 sebenar Github adalah untuk memudahkan kolaborasi ...
 
+<!--more-->
+
 Mulakan dengan *fork* repo yang anda berminat untuk menjadi penyumbang. Untuk tujuan
 artikel ini, saya memilih projek Laravel di URL berikut:-
 
@@ -54,3 +56,7 @@ Anda akan mendapat output lebih kurang berikut:-
 Untuk memastikan anda mendapat *changes* yang betul, jalankan command `git diff`:-
 
     git diff master
+
+Bandingkan dengan *changes* yang anda lihat di https://github.com/laravel/laravel/pull/2821/files:-
+
+<a href="http://i.imgur.com/P6BqGKu.png"><img src="http://i.imgur.com/P6BqGKul.png"></img></a>
