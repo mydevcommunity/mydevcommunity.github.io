@@ -37,3 +37,7 @@ authors:
     full_bio_en:    '<a href="http://www.ikhwanhayat.net">Ikhwan Hayat</a> has been developing softwares professionally since 2004. Main area of expertise is .NET, but often found getting lost in the world of PHP, Python, Ruby, Java, or some esoteric programming language. Available as a full-time freelance developer.'
     gravatar:       ffed0be2a9908059be3df617338579af
     pic:            https://www.linkedin.com/mpr/pub/image-1DO7sqVdaGYQIGHO5I5hUW5IQjdWz7sri-OC8gPmQLKqcs_Z1DOC2_bdQ9CdcIWX7rwU/ikhwan-hayat.jpg
+
+collections:
+  tips:
+    output: true

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+    <span class="post-date">
+      Ditulis pada {{ page.date }}
+      {% assign author = site.authors[page.author] %}
+      {% if author %}
+      <span> oleh <a href="/authors/{{ page.author }}.html">{{ author.name }}</a></span>
+      {% endif %}
+    </span>
+  {{ content }}
+</div>
+<div>
+    <a href="/tips/">Tips seterusnya ...</a>
+<div>
+
+{% include disqus.html %}

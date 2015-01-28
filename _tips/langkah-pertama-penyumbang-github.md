@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tips
 title: Langkah Pertama Menjadi Penyumbang di Github
 author: kamalmustafa
 date: 2015-01-27
@@ -13,8 +13,6 @@ summary: >
 Ramai developer sekarang sudah mula menggunakan Github untuk menyimpan code
 yang mereka hasilkan, ataupun mendapatkan code daripada developer lain. Namun fungsi
 sebenar Github adalah untuk memudahkan kolaborasi ...
-
-<!--more-->
 
 Mulakan dengan *fork* repo yang anda berminat untuk menjadi penyumbang. Untuk tujuan
 artikel ini, saya memilih projek Laravel di URL berikut:-

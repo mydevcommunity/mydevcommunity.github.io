@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<h1>Tips</h1>
+<ul>
+{% for tip in site.tips  %}
+    {% if tip.title != 'Index' %}
+    <li><a href="{{ tip.url }}">{{ tip.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
