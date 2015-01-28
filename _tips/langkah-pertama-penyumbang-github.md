@@ -28,7 +28,7 @@ Langkah kedua adalah dengan *checkout* repo yang baru kita fork tadi:-
 
     git clone https://github.com/k4ml/laravel.git
 
-Langkah kedua - add repo asal Laravel sebagai *upstream*:-
+Langkah ketiga - add repo asal Laravel sebagai *upstream*:-
 
     cd laravel
     git remote add upstream https://github.com/laravel/laravel.git
