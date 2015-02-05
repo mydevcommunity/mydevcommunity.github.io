@@ -20,3 +20,8 @@ Composer successfully installed to: /home/kamal/php/myshop/composer.phar
 Use it: php composer.phar
 ```
 
+```console
+php composer.phar install
+Loading composer repositories with package information
+Installing dependencies (including require-dev
+```
