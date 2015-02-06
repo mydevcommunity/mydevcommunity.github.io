@@ -43,6 +43,11 @@ Anda akan mendapat output lebih kurang seperti berikut apabila selesai:-
 
 <a href="http://imgur.com/tVjCE09"><img src="http://i.imgur.com/tVjCE09.png" title="source: imgur.com" /></a>
 
+<div class="admonition-info">
+    Perhatikan satu folder baru bernama <code>vendor</code> dibina. Ia akan mengandungi kesemua code yang di'download' melalui <code>composer</code>.
+</div>
+<div>&nbsp;</div>
+
 Setelah `composer` selesai download, anda boleh mula menggunakan library tersebut dalam *script* PHP anda dengan hanya menambah baris berikut:-
 
 ```php
