@@ -39,10 +39,10 @@ Kemudian, jalankan arahan berikut:-
 ```console
 php composer.phar install
 ```
-```
-Loading composer repositories with package information
-Installing dependencies (including require-dev
-```
+Anda akan mendapat output lebih kurang seperti berikut apabila selesai:-
+
+<a href="http://imgur.com/tVjCE09"><img src="http://i.imgur.com/tVjCE09.png" title="source: imgur.com" /></a>
+
 Setelah `composer` selesai download, anda boleh mula menggunakan library tersebut dalam *script* PHP anda dengan hanya menambah baris berikut:-
 
 ```php
