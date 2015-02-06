@@ -94,4 +94,4 @@ Jadi amat penting sekali untuk `composer.lock` disertakan sekali ke dalam *versi
 
 ## Rujukan
 * https://getcomposer.org/doc/01-basic-usage.md#package-versions
-* https://blog.engineyard.com/2014/composer-its-all-about-the-lock-file (terima kasih kepada [Mior Muhammad Zaki](https://github.com/crynobone).
+* https://blog.engineyard.com/2014/composer-its-all-about-the-lock-file (terima kasih kepada [Mior Muhammad Zaki](https://github.com/crynobone)).
