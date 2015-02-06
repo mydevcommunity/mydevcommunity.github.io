@@ -25,3 +25,29 @@ php composer.phar install
 Loading composer repositories with package information
 Installing dependencies (including require-dev
 ```
+Setelah `composer` selesai download, anda boleh mula menggunakan library tersebut dalam *script* PHP anda dengan hanya menambah baris berikut:-
+
+```php
+<?php
+require 'vendor/autoload.php';
+```
+
+Contohnya, bina fail baru bernama `mail.php` seperti berikut:-
+
+```php
+<?php
+require 'vendor/autoload.php';
+
+$transport = Swift_SmtpTransport::newInstance('127.0.0.1', 25);
+$mailer = Swift_Mailer::newInstance($transport);
+
+$message = Swift_Message::newInstance('Wonderful Subject')
+  ->setFrom(array('john@doe.com' => 'John Doe'))
+  ->setTo(array('kamal-test@mailinator.com'))
+  ->setBody('Here is the message itself')
+  ;
+
+$result = $mailer->send($message);
+```
+
+Dan anda boleh jalankannya melalui `php mail.php` dan email akan dihantar.
