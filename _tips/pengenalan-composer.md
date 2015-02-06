@@ -10,18 +10,36 @@ summary: >
 
 Composer adalah tools untuk mendapatkan *dependencies* bagi projek PHP anda. Sebelum Composer, jika anda ingin menggunakan sebarang *library* luar, anda perlu download ia terlebih dahulu, unzip (jika dalam bentuk archive), dan kemudian *copy* ke folder projek anda. Bagaimana pula jika *library* tersebut turut bergantung kepada *library* lain ? Ulang semula proses sebelum ini.
 
+Terlebih dahulu anda perlu install `composer`. Ia boleh dilakukan melalui *command* berikut:-
+
 ```console
 curl -sS https://getcomposer.org/installer | php
+```
+Anda akan mendapat *output* seperti berikut:-
+
+```console
 #!/usr/bin/env php
 All settings correct for using Composer
 Downloading...
-
 Composer successfully installed to: /home/kamal/php/myshop/composer.phar
 Use it: php composer.phar
 ```
+Seterusnya, untuk men'download' *library* yang anda inginkan, bina fail bernama `composer.json` seperti berikut:-
+
+```json
+{
+    "require": {
+        "swiftmailer/swiftmailer": "5.3.1"
+    }
+}
+```
+
+Kemudian, jalankan arahan berikut:-
 
 ```console
 php composer.phar install
+```
+```
 Loading composer repositories with package information
 Installing dependencies (including require-dev
 ```
