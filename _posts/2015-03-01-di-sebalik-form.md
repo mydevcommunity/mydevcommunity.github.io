@@ -5,6 +5,13 @@ date: 2015-03-01
 author: kamalmustafa
 permalink: /di-sebalik-form.html
 level: 2
+summary: >
+            Sebagai web developer, anda sudah biasa dengan proses membina form, dan kemudian
+            menghantar (submit) form tersebut untuk di proses di server, sama ada menggunakan
+            platform *server-side* seperti PHP, Python, .Net, Rails dan sebagainya.
+
+            Tapi pernahkah anda terfikir, bagaimanakah data daripada *form* tersebut dihantar
+            daripada *client* (*browser*) ke *server* ? Apakah format data tersebut ?
 ---
 Sebagai web developer, anda sudah biasa dengan proses membina form, dan kemudian
 menghantar (submit) form tersebut untuk di proses di server, sama ada menggunakan
