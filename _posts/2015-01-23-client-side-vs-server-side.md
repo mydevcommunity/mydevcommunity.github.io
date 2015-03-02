@@ -4,6 +4,10 @@ title: Client-Side vs Server-Side
 author: ikhwanhayat
 level: 1
 include_toc: true
+summary: >
+            Perbezaan asas antara client-side dan server-side dalam web development. Bacaan wajib bagi
+            mereka yang baru bermula dalam bidang ini, ataupun masih keliru dengan perbezaan antara
+            keduanya.
 ---
 
 Suatu sistem berasaskan web adalah komunikasi antara 2 pihak. Pihak pertama ialah pelayar web iaitu yang kita panggil **_client-side_**. Pihak kedua pula ialah pelayan ataupun **_server-side_**. _Client_ akan memulakan proses komunikasi dengan meminta fail dari _server_, dan _server_ akan memulangkan fail tersebut kepada _client_. _Client_ akan memproses fail tersebut dan memaparkannya kepada pengguna. Seorang pengaturcara web perlu mempunyai pemahaman yang baik tentang konsep ini.
