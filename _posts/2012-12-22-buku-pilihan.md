@@ -23,6 +23,8 @@ Senarai buku-buku yang direkomen oleh ahli-ahli komuniti MyDev. Senarai ini adal
 1. [Design Patterns: Elements of Reusable Object-Oriented Software](http://www.amazon.com/Design-Patterns-Object-Oriented-Professional-Computing/dp/0201634988)
 1. [High Performance MySQL: Optimization, Backups, and Replication](http://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287)
 1. [Enterprise Integration Patterns](http://www.amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
+1. [The Art of Scalability - Scalable Web Architecture, Processes, and
+Organizations for the Modern Enterprise](http://theartofscalability.com/)
 
 Sebarang tambahan kepada senarai di atas adalah dialu-alukan. Anda boleh melakukannya sama ada dengan 'fork' [repo mydev][3] di github dan membuat 'pull request' atau menambahnya ke [topik perbincangan][1] di [komuniti G+][2].
 
