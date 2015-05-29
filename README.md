@@ -4,6 +4,8 @@ Kod sumber untuk laman kolaboratif [www.mydev.my][1].
 
 ## Maklumat Ringkas
 
+[![Join the chat at https://gitter.im/mydevcommunity/mydevcommunity.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mydevcommunity/mydevcommunity.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * [Latar belakang permulaan projek ini][2]
 * [Bagaimana hendak menyumbang][3]
 * [Integrasi dengan Travis-CI][4]
