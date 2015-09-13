@@ -25,6 +25,8 @@ Senarai buku-buku yang direkomen oleh ahli-ahli komuniti MyDev. Senarai ini adal
 1. [Enterprise Integration Patterns](http://www.amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
 1. [The Art of Scalability - Scalable Web Architecture, Processes, and
 Organizations for the Modern Enterprise](http://theartofscalability.com/)
+1. [Apprenticeship Patterns - Guidance for the Aspiring Software] (Craftsmanhttp://chimera.labs.oreilly.com/books/1234000001813/index.html)
+2. [Think Like Engineer](http://www.amazon.com/Think-Like-Engineer-systematic-challenges/dp/1500972282)
 
 Sebarang tambahan kepada senarai di atas adalah dialu-alukan. Anda boleh melakukannya sama ada dengan 'fork' [repo mydev][3] di github dan membuat 'pull request' atau menambahnya ke [topik perbincangan][1] di [komuniti G+][2].
 
