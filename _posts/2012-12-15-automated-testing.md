@@ -9,6 +9,8 @@ level: 2
 
 _Testing_ adalah sebahagian daripada proses pembangunan perisian komputer. Setiap kali baris-baris kod ditulis, diubah atau dipadam, ia mesti melalui proses testing bagi memastikan program tersebut masih lagi berjalan sebagaimana yang diharapkan. Ini bermakna kita sama sekali tidak boleh mengelak daripada melakukan _testing_ terhadap program atau aplikasi yang kita bangunkan.
 
+![Commitstrip on Unit Testing](https://www.commitstrip.com/wp-content/uploads/2016/10/Strip-Chez-le-Psy-4-english650-final-1.jpg)
+
 <!--more-->
 
 ## Manual Testing
